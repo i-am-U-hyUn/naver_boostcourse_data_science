@@ -53,10 +53,7 @@
 정규분포 만들기
 <img width="382" height="1218" alt="image" src="https://github.com/user-attachments/assets/2007b1e2-7304-489c-ae62-28adb66d7aa4" />
 
-파생변수 만들기
-<img width="481" height="385" alt="image" src="https://github.com/user-attachments/assets/7edc1029-1a83-40df-a5f3-d9dfe4191794" />
-
-이상치 다루기
+파생변수 만들고 이상치 다루기
 <img width="481" height="385" alt="image" src="https://github.com/user-attachments/assets/86635b31-ec32-49fd-81ad-d1ea7762c7a3" />
 
 scaling

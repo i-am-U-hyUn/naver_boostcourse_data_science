@@ -24,7 +24,6 @@
 - **Colab 링크**  
   [1주차 과제](https://colab.research.google.com/github/i-am-U-hyUn/data-science/blob/main/01_week_mission_booster_ipynb%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb)
 
-<img width="1252" height="1099" alt="image" src="https://github.com/user-attachments/assets/0f5652f7-2780-4d9a-a9fc-c4d005a31ad6" />
 
 ---
 
@@ -44,24 +43,6 @@
 - **Colab 링크**  
   [2주차 과제](https://colab.research.google.com/github/i-am-U-hyUn/data-science/blob/main/02_week_mission_booster_ipynb%EC%9D%98_%EC%A0%95%EB%A6%AC.ipynb)  
   [2주차 2번째 버전](https://colab.research.google.com/github/i-am-U-hyUn/data-science/blob/main/%EB%AF%B8%EC%85%982_2%EB%B2%88%EC%A7%B8%EB%B2%84%EC%A0%84.ipynb)
-
-<img width="597" height="358" alt="image" src="https://github.com/user-attachments/assets/d1447cd5-704e-44fe-9d2c-8c2cb258f0d1" />
-
-결측치 다루기
-<img width="1319" height="791" alt="image" src="https://github.com/user-attachments/assets/9e40e388-43b6-4a72-abd7-c1e96cd3e9d8" />
-
-정규분포 만들기
-<img width="382" height="1218" alt="image" src="https://github.com/user-attachments/assets/2007b1e2-7304-489c-ae62-28adb66d7aa4" />
-
-파생변수 만들고 이상치 다루기
-<img width="481" height="385" alt="image" src="https://github.com/user-attachments/assets/86635b31-ec32-49fd-81ad-d1ea7762c7a3" />
-
-scaling
-<img width="841" height="212" alt="image" src="https://github.com/user-attachments/assets/0d4cc41d-7fce-424d-bacf-d56c86146bb9" />
-
-트리 알고리즘 분석하기
-<img width="913" height="766" alt="image" src="https://github.com/user-attachments/assets/61d99ea6-f24e-470a-960e-0aa54c937281" />
-<img width="644" height="226" alt="image" src="https://github.com/user-attachments/assets/9eb22768-65bc-4c73-a06d-7adae93e76d1" />
 
 ---
 
@@ -122,6 +103,31 @@ scaling
 ├── 04_week_mission_booster.ipynb      # 4주차 과제 코드
 └── 은행고객데이터_미션4.ipynb         # 4주차 고객 이탈 분석
 ```
+
+---
+
+<img width="1252" height="1099" alt="image" src="https://github.com/user-attachments/assets/0f5652f7-2780-4d9a-a9fc-c4d005a31ad6" />
+
+<img width="597" height="358" alt="image" src="https://github.com/user-attachments/assets/d1447cd5-704e-44fe-9d2c-8c2cb258f0d1" />
+
+결측치 다루기
+<img width="1319" height="791" alt="image" src="https://github.com/user-attachments/assets/9e40e388-43b6-4a72-abd7-c1e96cd3e9d8" />
+
+정규분포 만들기
+<img width="382" height="1218" alt="image" src="https://github.com/user-attachments/assets/2007b1e2-7304-489c-ae62-28adb66d7aa4" />
+
+파생변수 만들고 이상치 다루기
+<img width="481" height="385" alt="image" src="https://github.com/user-attachments/assets/86635b31-ec32-49fd-81ad-d1ea7762c7a3" />
+
+scaling
+<img width="841" height="212" alt="image" src="https://github.com/user-attachments/assets/0d4cc41d-7fce-424d-bacf-d56c86146bb9" />
+
+트리 알고리즘 분석하기
+<img width="913" height="766" alt="image" src="https://github.com/user-attachments/assets/61d99ea6-f24e-470a-960e-0aa54c937281" />
+<img width="644" height="226" alt="image" src="https://github.com/user-attachments/assets/9eb22768-65bc-4c73-a06d-7adae93e76d1" />
+
+<img width="1076" height="1138" alt="image" src="https://github.com/user-attachments/assets/8cb05758-ff6a-4196-b2e6-37bf59a9d4bc" />
+
 
 ---
 
